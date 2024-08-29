@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "coursename": "The Full stack Web developement",
+    "organisation": "Issued by : Infosys",
+    "startDate": "Jan, 2023",
+    "endDate": "March, 2023",
+    "skills": "HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, RESTful APIs, Git, GitHub, Heroku, AWS.",
+    "imageSrc": "company/Infosys.jpg"
+  },
+  {
+    "id": 2,
+    "coursename": "Cloud Computing and Distributed System",
+    "organisation": "Issued by: NPTEL",
+    "startDate": "jan, 2023",
+    "endDate": "March, 2023",
+    "imageSrc": "company/nptel.png"
+  },
+  {
+    "id": 3,
+    "coursename": "Version Control",
+    "organisation": "Issued by: Meta",
+    "startDate": "jun, 2022",
+    "endDate": "8 Oct, 2022",
+    "imageSrc": "company/meta.png"
+  }
+]
